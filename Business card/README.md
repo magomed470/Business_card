@@ -1,0 +1,4 @@
+## Architecture:
+* HTML
+* CSS
+* JavaScript
